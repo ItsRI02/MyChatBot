@@ -1,0 +1,20 @@
+{
+  "name": "pdf-gemini-chat",
+  "version": "1.0.0",
+  "description": "Local PDF chatbot using Node.js server + Python core (FAISS) + Gemini (placeholder)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.27.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^2.4.5"
+  }
+}
