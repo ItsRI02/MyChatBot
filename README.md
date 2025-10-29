@@ -1,4 +1,4 @@
-# PDF → Gemini Chat (local)
+# PDF Gemini Chat
 
 This project provides a local chatbot that:
 
